@@ -1,0 +1,28 @@
+{
+  "name": "phone-catalogue",
+  "version": "1.0.0",
+  "description": "Phone Catalogue App",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leewiseman94/Phone-Catalogue.git"
+  },
+  "author": "Lee Wiseman leew21@hotmail.co.uk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leewiseman94/Phone-Catalogue/issues"
+  },
+  "homepage": "https://github.com/leewiseman94/Phone-Catalogue#readme",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "cors": "^2.8.5",
+    "express": "^4.17.2",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
